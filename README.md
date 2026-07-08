@@ -47,10 +47,6 @@ Currently working on scalable enterprise software while continuously exploring i
 
 <img src="https://skillicons.dev/icons?i=vue" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=ts" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-
 <img src="https://skillicons.dev/icons?i=materialui" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
@@ -64,8 +60,6 @@ Currently working on scalable enterprise software while continuously exploring i
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=pinia" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vite" height="45"/>
 
 </p>
 
@@ -97,11 +91,11 @@ Currently working on scalable enterprise software while continuously exploring i
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
 
 </p>
 
@@ -122,8 +116,6 @@ Currently working on scalable enterprise software while continuously exploring i
 <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
 
 <img src="https://cdn.simpleicons.org/spacy/09A3D5" height="45"/>
-
-<img src="https://cdn.simpleicons.org/nltk/154F5B" height="45"/>
 
 </p>
 
@@ -158,10 +150,11 @@ Currently working on scalable enterprise software while continuously exploring i
 <tr>
 <td colspan=5 valign="top">
 
-## Tools
+
 
 <p align="center">
 
+  ## Tools
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
 
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
