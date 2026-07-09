@@ -31,163 +31,51 @@ Currently working on scalable enterprise software while continuously exploring i
 ---
 # My Stack
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="20%" valign="top">
-
-## Frontend
+## 🌐 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vue" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=materialui" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vite" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=pinia" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,materialui,vite,pinia,html,css" />
 </p>
 
-</td>
+---
 
-<td width="20%" valign="top">
-
-## Backend
+## ⚙ Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=django" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=flask" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" />
 </p>
 
-</td>
+---
 
-<td width="20%" valign="top">
-
-## Databases
+## 🗄 Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-</td>
+---
 
-<td width="20%" valign="top">
-
-## AI / ML
+## 🤖 AI / ML
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
-
-<img src="https://cdn.simpleicons.org/spacy/09A3D5" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-</td>
+---
 
-<td width="20%" valign="top">
-
-## Languages
+## 💻 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=ts" height="45"/>
-
-<img src="https://cdn.simpleicons.org/r/276DC3" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=matlab" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,matlab,r" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td colspan=5 valign="top">
+---
 
-
+## 🛠 Tools
 
 <p align="center">
-
-  ## Tools
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=idea" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=pycharm" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=eclipse" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=figma" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=qt" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,eclipse,postman,figma,qt,aws,linux,docker,kubernetes,jenkins" />
 </p>
-
-</td>
-
-</tr>
 
 </table>
 
